@@ -293,6 +293,7 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .btn--blue {
+    margin-bottom: 16px;
     background: var(--blue);
     transition: all 0.2s;
     color: var(--white);
@@ -424,7 +425,7 @@ body:not(.user-is-tabbing) a:focus {
 
 @media(max-width: 400px) {
     .nav__item:not(:last-child) {
-        margin-right: var(--gutter-normal);
+        margin-right: var(--gutter-medium);
     }
 }
 
