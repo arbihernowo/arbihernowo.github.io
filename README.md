@@ -4,7 +4,6 @@
 
 To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
-![Portfolio Gif](/images/portfolio.gif)
 
 ## Features
 
@@ -18,7 +17,6 @@ To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
 ## Lighthouse Report
 
-![Lighthouse Report](/images/lighthouse-report.png)
 
 ### Contributions are warmly welcomed ❤️.
 
