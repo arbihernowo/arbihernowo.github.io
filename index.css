@@ -115,7 +115,6 @@ body {
 
 section {
     padding: var(--gutter-huge) 0;
-    border-bottom: var(--border-light);
 }
 
 img {
